@@ -1,0 +1,95 @@
+new permission set on account for base users
+
+history tacking for fields which are editable for base members(Account)
+
+Overview for role,profile(table)
+
+Patch on Uat on wednesday morning
+
+Migration on uat for testing purpose
+
+wednesde- uat 
+
+TB_OneCRM_
+
+
+
+onecrmbase@2016 --> Password
+taniya.dey@staff.telenet.be.onecrmdev --> username
+uatsales@2016 -->password
+taniya.dey1@telenetgroup.be.uat -->username
+taniya.dey@staff.telenet.be.dvp -->DVP sandbox
+accdvp@2016 -->DVP password
+taniya.dey1@telenetgroup.be -->UserName on INT(Orchestrator Monitor)
+orchestrator2016
+taniya.dey@telenetgroup.be.int -->User Admin(INT)
+AccINT@2016
+EJWiJHP8ZOBsMPZW9buB8C1m   
+taniya.dey2@telenetgroup.be.uat -->UserName on UAT(Orchestrator Monitor)
+accadmin@2016
+
+BASE :
+taniya.dey@telenet.be - userId
+Baseprod@2016- Passsword 
+
+PROD :
+taniya.dey@telenetgroup.be
+prod@2016
+Z4RlRfc6xOXvCzS1h6U3J0V2
+EDP :
+taniya.dey@telenetgroup.be.edp
+edp@2016
+wkvxlEdvcFiVOuIh5ZEAzM5D
+
+TRG:
+taniya.dey@telenetgroup.be.trg
+salestrg@2016
+
+bkup163:
+taniya.dey@telenetgroup.be.bkup163
+prod4base@2016
+
+Commit Orch Template on stash :
+1) Export XML file 
+2) put it in stash folder
+3) open command promt
+4) git status
+5) git add .
+6) git status
+7) git commit -m "provide message"
+8) git push
+
+NC Link :
+http://wlsncomngdvip.uat.corp.telenet.be:10901/
+
+Codoodle :
+http://wlstlsmngdvip.dvp.corp.telenet.be:11801/codoogle/Codoogle.jsp
+
+Confluence :
+https://confluence.rel.apps.telenet.be/display/CP/Sprints
+
+Code Coverage :
+https://telenet--uat--c.cs81.visual.force.com/apex/IT_ARCH_CodeCoverageOverview
+
+Orchestrator :
+https://telenet--uat--cspofa.cs82.visual.force.com/apex/ProcessDriver
+
+Cloudsense Ticket :
+https://cloudsense.secure.force.com/ticketing/
+T-28587 -->
+T-28581
+T-28273
+T-28615 -->Ticket getting created multiple times
+
+
+
+
+Personal GIT :
+https://github.com/Taniya90/Try
+Taniya90
+tamita1990
+
+
+
+
+
